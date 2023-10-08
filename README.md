@@ -1,3 +1,6 @@
+# Based on this tutorial
+https://www.devmedia.com.br/consumindo-uma-api-com-react-js-e-axios/42900
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
